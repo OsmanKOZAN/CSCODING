@@ -16,3 +16,4 @@ def tabloOlustur():
 tabloOlustur()
 
 con.close()
+#%%
